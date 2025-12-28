@@ -6,3 +6,5 @@
 ###### This is a test of HEADER SIZE
 
 This code adds a size comparison of the 6 different sized texts
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
